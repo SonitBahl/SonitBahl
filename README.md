@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sonitbahl@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1gOrk8ozkl282Lv2oo3-Gz282qxN57X6k/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1SlhBSGjZD4ivX-xMXjztb4u_hImiqQlc/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -4,8 +4,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=22EBF7&size=25&center=true&lines=Sonit+Bahl+here!;I+make+games!!"/>
 </p>
 
-<p style="text-align: center; width: 100%;">
-  <img src="./assets/chill.gif" alt="Coding Animation" style="width: 100%; height: auto;" />
+<p style="width: 100%; margin: 0; padding: 0;">
+  <img src="./assets/chill.gif" alt="Coding Animation" style="width: 100vw; height: auto; display: block;" />
 </p>
 
 

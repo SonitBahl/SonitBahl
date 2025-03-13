@@ -43,5 +43,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonitbahl&show_icons=true&locale=en" alt="sonitbahl" /></p>
 
 <p>
-  <img align="center" src="https://streak-stats.demolab.com?user=SonitBahl" alt="sonitbahl" />
+  <img align="center" src="https://streak-stats.demolab.com?user=SonitBahl&cache_bust=0" alt="sonitbahl" />
 </p>

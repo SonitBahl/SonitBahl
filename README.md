@@ -4,6 +4,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=22EBF7&size=25&center=true&lines=Sonit+Bahl+here!;I+make+games!!"/>
 </p>
 
+<p align="center">
+  <img src="./assets/chill.gif" alt="Coding Animation" style="width:1000; height:auto;" />
+</p>
+
 
 
 - 🔭 I’m currently working on **My startup, Vriddhi!**

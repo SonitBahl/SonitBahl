@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/chill.gif" alt="Coding Animation" style="width:100%; height:auto;" />
+  <img src="./assets/chill.gif" alt="Coding Animation" style="display: block; width: 100%; height: auto; margin: 0 auto;" />
 </p>
 
 

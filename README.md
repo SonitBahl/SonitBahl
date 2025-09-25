@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **sonitbahl@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/18-xaa1uDCVdg5-EEYqq-qyPpKuEceeDJ/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1X7B3IHCPTefsUy0mgm_6JtVLlWA-rWo8/view?usp=sharing)
 
 ## ✨ Want More of Me?
 

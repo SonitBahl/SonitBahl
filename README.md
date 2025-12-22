@@ -37,6 +37,9 @@
   <a href="https://leetcode.com/u/SonitBahl/" target="_blank" title="LeetCode">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" height="40" />
   </a>
+  <a href="https://tryhackme.com/p/LightMane" target="_blank" title="TryHackMe">
+    <img src="https://cdn-icons-png.flaticon.com/512/924/924915.png" alt="TryHackMe / Cybersecurity" width="40" height="40" />
+  </a>
 </p>
 
 

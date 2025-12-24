@@ -100,8 +100,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonitbahl&show_icons=true&locale=en&theme=radical" alt="sonitbahl" /></p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SonitBahl&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ## 🎖️ Holopin Badges
 [![An image of @sonitbahl's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sonitbahl)](https://holopin.io/@sonitbahl)

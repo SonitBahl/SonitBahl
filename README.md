@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sonit Bahl</h1>
-<h3 align="center">Final year student, full-time learner, part-time job hunter.</h3>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=22EBF7&size=25&center=true&lines=Shell+to+Shaders;"/>
 </p>
@@ -10,13 +9,13 @@
 
 
 
-- 🔐 I’m currently working as a **Cybersecurity Intern at Ericsson**
+- 🔐 I’m currently working as a **AI-Automation Engineer at Nokia**
 
-- 🌱 I’m currently learning **Certificate Management** with **EJBCA**
+- 🌱 I’m currently learning **GUI Automation** with **Playwright**
 
-- 🤝 I’m looking for help with **Cloud Security**
+- 🤝 I’m looking for help with **Jenkins & CI/CD**
 
-- 💬 Ask me about **Machine Learning and Cyber Security**
+- 💬 Ask me about **Automation, AI and Cybersecurity**
 
 - 📫 How to reach me **sonitbahl@gmail.com**
 
